@@ -1,10 +1,12 @@
 [
   {
     "name": "Opera GX",
-    "url": "https://portableapps.com/redir2/?a=OperaPortable&s=s&d=pa&f=OperaPortable_113.0.5230.62.paf.exe"
+    "url": "https://portableapps.com/redir2/?a=OperaPortable&s=s&d=pa&f=OperaPortable_113.0.5230.62.paf.exe",
+    "filename": "OperaPortable_113.0.5230.62.paf.exe"
   },
   {
     "name": "Roblox",
-    "url": "https://www.roblox.com/download/client?os=win"
+    "url": "https://www.roblox.com/download/client?os=win",
+    "filename": "RobloxInstaller.exe"
   }
 ]

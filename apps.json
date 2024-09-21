@@ -1,8 +1,13 @@
 [
   {
-    "name": "Opera GX",
+    "name": "Opera",
     "url": "https://portableapps.com/redir2/?a=OperaPortable&s=s&d=pa&f=OperaPortable_113.0.5230.62.paf.exe",
     "filename": "OperaPortable_113.0.5230.62.paf.exe"
+  },
+  {
+    "name": "Opera GX",
+    "url": "https://portableapps.com/redir2/?a=OperaGXPortable&s=s&d=pa&f=OperaGXPortable_113.0.5230.108.paf.exe",
+    "filename": "OperaGXPortable_113.0.5230.108.paf.exe"
   },
   {
     "name": "Roblox",

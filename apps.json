@@ -10,14 +10,9 @@
     "filename": "OperaGXPortable_113.0.5230.108.paf.exe"
   },
   {
-    "name": "Roblox",
+    "name": "Roblox (is een game maar doet er niet toe)",
     "url": "https://www.roblox.com/download/client?os=win",
     "filename": "RobloxInstaller.exe"
-  },
-  {
-    "name": "Minecraft (Account nodig) v1.14.4",
-    "url": "https://archive.org/download/minecraft-portable/Minecraft%20Portable.zip",
-    "filename": "Minecraft-v1.14.4.zip"
   },
   {
     "name": "Lossless Scaling v2.11",

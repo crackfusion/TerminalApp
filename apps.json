@@ -28,5 +28,10 @@
     "name": "Free Download Manager (FDM)",
     "url": "https://portableapps.com/redir2/?a=fdmPortable&s=s&d=pa&f=fdmPortable_6.22_Rev_2_online.paf.exe",
     "filename": "Free-Download-Manager.paf.exe"
+  },
+  {
+    "name": "Discord | 1.0.9156",
+    "url": "https://github.com/portapps/discord-portable/releases/download/1.0.9156-20/discord-portable-win64-1.0.9156-20-setup.exe",
+    "filename": "discord-portable-win64-1.0.9156-20-setup.exe"
   }
 ]

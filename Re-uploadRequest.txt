@@ -1,5 +1,6 @@
 
 -- RE-UPLOAD REQUEST --
+Amount of votes/requests: 2
 
 Game name: Ultrakill
 Reason: pls

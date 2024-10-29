@@ -12,3 +12,9 @@ Game name: Waterflow
 Reason: pls
 Amount of votes/requests: 1
 
+-- RE-UPLOAD REQUEST --
+
+Game name: Ultrakill
+Reason: Yes
+Amount of votes/requests: 1
+
